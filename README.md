@@ -11,4 +11,8 @@ An Advanced Library Management project using python and PyQt5.
 
 
 
---A tab for all the day to day operations, a tab for entering new books, a tab for clients, a tab for adding new users, settings tab to change, remove or add author name, categories or publisher name. A themes tab to change the theme of the application.
+--A tab for all the day to day operations, a tab for entering new books, a tab for clients, a tab for adding new users, settings tab to change, remove or add author name, categories or publisher name.
+
+
+
+--A themes tab to change the theme of the application.
